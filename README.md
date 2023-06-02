@@ -4,6 +4,6 @@ Site institucional da empresa CriativBox desenvolvido em React JS.
 
 ## Instalação
 
-Projeto...
+Projeto Instiucional CriativBox
 
-Realizando o clone do projeto:
+
