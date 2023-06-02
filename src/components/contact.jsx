@@ -9,6 +9,7 @@ const initialState = {
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
+  const [isEmailSent, setIsEmailSent] = useState(false);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -30,9 +31,11 @@ export const Contact = (props) => {
         result => {
           console.log(result.text);
           clearState();
+           setIsEmailSent(true);
         },
         error => {
           console.log(error.text);
+          clearState();
         }
       );
   };
@@ -93,12 +96,16 @@ export const Contact = (props) => {
                   ></textarea>
                   <p className="help-block text-danger"></p>
                 </div>
-                <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
                   Enviar
                 </button>
               </form>
             </div>
+            {isEmailSent && (
+              <div id="success" className="alert alert-success">
+                Email enviado com sucesso!
+              </div>
+            )}
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
