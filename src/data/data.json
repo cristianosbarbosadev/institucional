@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Destaque-se na Hora Certa!",
+    "paragraph": "Desperte a atenção do seu público-alvo no momento em que eles estão saboreando uma deliciosa pizza, com a CriativBox!",
+    "logoNome": "img/logo/logoNome.png"
+  },
+  "About": {
+    "paragraph": "A CriativBox Mídias Inteligentes é uma empresa especializada em oferecer soluções eficientes em publicidade em caixas de pizza. Com uma equipe experiente e uma abordagem inovadora, ajudamos marcas a alcançar um público altamente segmentado e criar impacto memorável. Nossa estratégia baseia-se em fornecer caixas de pizza de alta qualidade gratuitamente para as pizzarias parceiras, reduzindo seus custos de produção e proporcionando uma apresentação profissional. Além disso, oferecemos recursos de rastreamento e análise de dados para medir o desempenho das campanhas e otimizar os resultados. Escolha a CriativBox e eleve sua estratégia de marketing a um novo patamar de eficiência.",
+    "Why": [
+      "Exposição direcionada",
+      "Segmentação eficaz",
+      "Custo-benefício",
+      "Qualidade premium"
+    ],
+    "Why2": [
+      "Métricas de desempenho",
+      "Alcance geográfico amplo",
+      "Impacto memorável",
+      "Experiência e confiabilidade"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Landing Pages Personalizadas",
+      "text": "Desenvolvemos Landing pages exclusivas e impactantes para suas campanhas, permitindo que você direcione o tráfego para uma página otimizada e converta visitantes em clientes."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "QR Codes Interativos",
+      "text": "Integramos QR codes em suas campanhas, proporcionando uma forma rápida e conveniente para seu público acessar informações, cupons, promoções especiais ou até mesmo realizar compras diretas."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "name": "Mapeamento social",
+      "text": "Acompanhamos o impacto de suas campanhas nas redes sociais, monitorando menções, compartilhamentos e interações, permitindo que você avalie o alcance e a eficácia das suas estratégias."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "Publicidade em caixa de pizza",
+      "text": "Aproveite a oportunidade de promover sua marca diretamente para o público-alvo por meio de anúncios estrategicamente colocados em caixas de pizza, alcançando milhares de consumidores durante suas refeições."
+    },
+    {
+      "icon": "fa fa-bicycle",
+      "name": "Publicidade em Bikedoor",
+      "text": "Leve sua mensagem publicitária para as ruas com a inovadora mídia de Bikedoor. Nossas bicicletas personalizadas carregam anúncios atrativos e circulam em áreas movimentadas, garantindo visibilidade para sua marca e atingindo o público onde quer que estejam."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Gerenciamento de Dados",
+      "text": "Coletamos e analisamos dados relevantes das interações com suas campanhas, fornecendo insights valiosos para melhorar seu desempenho e maximizar o retorno do investimento."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Rua Raimundo Nogueira, 247 Casa 2",
+    "phone": "+55 91234 1234",
+    "email": "contato@criativbox.com.br",
+    "instagram": "https://www.instagram.com/criativboxmi/",
+    "tiktok": "https://www.tiktok.com/@criativbox"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Aumente sua visibilidade",
+      "text": "Com a CriativBox, sua marca estará presente nas caixas de pizza, alcançando um público altamente segmentado e divulgando sua mensagem de forma eficaz."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Economize com qualidade",
+      "text": "Nossas caixas de pizza de alta qualidade são fornecidas gratuitamente, reduzindo significativamente os custos de produção das pizzarias parceiras e garantindo uma apresentação profissional aos clientes."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Impacte no momento certo",
+      "text": "Leve sua propaganda diretamente para a mesa do seu público-alvo no momento em que eles estão mais receptivos, desfrutando de uma deliciosa pizza, criando um impacto memorável para sua marca."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Acesso a dados valiosos",
+      "text": "Através de landing pages personalizadas e QR codes, oferecemos uma maneira eficiente de rastrear o desempenho de suas campanhas, fornecendo dados valiosos para medir o retorno do investimento e otimizar suas estratégias."
+    }
+  ]
+}
