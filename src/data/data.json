@@ -5,7 +5,7 @@
     "logoNome": "img/logo/logoNome.png"
   },
   "About": {
-    "paragraph": "A CriativBox Mídias Inteligentes é uma empresa especializada em oferecer soluções eficientes em publicidade em caixas de pizza. Com uma equipe experiente e uma abordagem inovadora, ajudamos marcas a alcançar um público altamente segmentado e criar impacto memorável. Nossa estratégia baseia-se em fornecer caixas de pizza de alta qualidade gratuitamente para as pizzarias parceiras, reduzindo seus custos de produção e proporcionando uma apresentação profissional. Além disso, oferecemos recursos de rastreamento e análise de dados para medir o desempenho das campanhas e otimizar os resultados. Escolha a CriativBox e eleve sua estratégia de marketing a um novo patamar de eficiência.",
+    "paragraph": "A CriativBox Mídias Inteligentes é uma empresa especializada em oferecer soluções eficientes em publicidade. Com uma equipe experiente e uma abordagem inovadora, ajudamos marcas a alcançar um público altamente segmentado e criar impacto memorável. Nossa estratégia baseia-se em fornecer caixas de pizza de alta qualidade gratuitamente para as pizzarias parceiras, reduzindo seus custos de produção e proporcionando uma apresentação profissional. Além disso, oferecemos recursos de rastreamento e análise de dados para medir o desempenho das campanhas e otimizar os resultados. Escolha a CriativBox e eleve sua estratégia de marketing a um novo patamar de eficiência.",
     "Why": [
       "Exposição direcionada",
       "Segmentação eficaz",
@@ -153,8 +153,8 @@
     }
   ],
   "Contact": {
-    "address": "Rua Raimundo Nogueira, 247 Casa 2",
-    "phone": "+55 91234 1234",
+    "address": "Rua Raimundo Nogueira, 247",
+    "phone": "+55 11 91234 1234",
     "email": "contato@criativbox.com.br",
     "instagram": "https://www.instagram.com/criativboxmi/",
     "tiktok": "https://www.tiktok.com/@criativbox"
