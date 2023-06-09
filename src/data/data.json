@@ -130,26 +130,51 @@
       "name": "Johnathan Doe"
     }
   ],
-  "Team": [
+  "Advantage": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "title": "Consultoria especializada para campanha publicitária:",
+      "paragraph": "Conte com nossa equipe de especialistas em publicidade para obter orientações valiosas e estratégias personalizadas. Com nossa consultoria, sua campanha será otimizada para alcançar resultados surpreendentes."
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "title": "Análise de segmentação por classe social:",
+      "paragraph": "Utilizamos dados e ferramentas avançadas para analisar o perfil do seu público-alvo, incluindo informações relevantes sobre a classe social. Isso permite direcionar sua campanha de forma precisa e impactante, maximizando seu alcance e engajamento."
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "title": "Adaptação de campanhas para nossos produtos:",
+      "paragraph": "Nossa equipe criativa e experiente adaptará suas campanhas publicitárias para serem perfeitamente integradas às nossas caixas de pizza. Dessa forma, suas mensagens ganham destaque e eficácia, alcançando o público de maneira memorável."
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "title": "Geração de arte gráfica:",
+      "paragraph": "Contamos com talentosos designers que criarão arte gráfica de alta qualidade e atrativa para suas campanhas. Suas mensagens ganharão vida com designs criativos e visualmente impactantes, capturando a atenção do seu público-alvo."
+    },
+    {
+      "img": "img/team/05.jpg",
+      "title": "Criação de Landing Page com acesso por QR Code 100% responsivo:",
+      "paragraph": "Oferecemos a criação de Landing Pages personalizadas, projetadas para garantir uma experiência imersiva e interativa para o público. Através do QR Code presente nas caixas de pizza, os clientes serão direcionados a uma página exclusiva, totalmente responsiva em qualquer dispositivo."
+    },
+    {
+      "img": "img/team/06.jpg",
+      "title": "Acompanhamento dos resultados da campanha em tempo real:",
+      "paragraph": "Com nossa tecnologia de Marketing Digital, você terá acesso a relatórios detalhados e em tempo real sobre o desempenho da sua campanha. Monitore métricas importantes, como visualizações, cliques e conversões, permitindo ajustes estratégicos para maximizar os resultados."
+    },
+    {
+      "img": "img/team/07.jpg",
+      "title": "Gerenciamento dos dados coletados durante a campanha:",
+      "paragraph": "Nossa equipe cuida de forma segura e profissional dos dados coletados durante sua campanha. Com medidas de segurança e privacidade adequadas, garantimos que suas informações sejam protegidas e utilizadas de maneira responsável."
+    },
+    {
+      "img": "img/team/08.jpg",
+      "title": "Frete e distribuição das caixas:",
+      "paragraph": "Nosso serviço inclui o frete e distribuição das caixas de pizza publicitárias até os estabelecimentos parceiros. Garantimos um processo ágil e eficiente, para que sua mensagem chegue ao público-alvo no momento certo, fortalecendo o impacto da sua campanha."
+    },
+    {
+      "img": "img/team/09.jpg",
+      "title": "Integração com Redes Sociais:",
+      "paragraph": "Amplie o alcance da sua campanha publicitária ao integrar suas ações de marketing com as principais redes sociais. Nossa equipe irá desenvolver estratégias para conectar suas campanhas nas caixas de pizza com as plataformas digitais mais relevantes para o seu público-alvo. Aproveite o poder das redes sociais para impulsionar o engajamento, compartilhamento e interação com sua marca."
     }
   ],
   "Contact": {

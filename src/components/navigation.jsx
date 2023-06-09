@@ -11,15 +11,15 @@ export const Navigation = (props) => {
             data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1"
           >
-            {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
+            {' '}
+            <span className="sr-only">Toggle navigation</span>{' '}
+            <span className="icon-bar"></span>{' '}
+            <span className="icon-bar"></span>{' '}
+            <span className="icon-bar"></span>{' '}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            <img src="img/logo/logoNome.png" className="imgLogoNome" alt="" /> {" "}
-          </a>{" "}
+            <img src="img/logo/logoNome.png" className="imgLogoNome" alt="" />{' '}
+          </a>{' '}
         </div>
 
         <div
@@ -27,6 +27,11 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
+            <li>
+              <a href="#advantage" className="page-scroll">
+                Vantagens
+              </a>
+            </li>
             <li>
               <a href="#features" className="page-scroll">
                 Diferencial
