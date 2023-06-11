@@ -6,6 +6,7 @@ import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
 import { Contact } from "./components/contact";
+import { FloatingButton } from "./components/floatingButton";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -24,6 +25,7 @@ const App = () => {
   return (
     <div>
       <Navigation />
+      <FloatingButton />
       <Header data={landingPageData.Header} />
       <Advantage data={landingPageData.Advantage} />
       <Features data={landingPageData.Features} />
