@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 export const FloatingButton = () => {
-  const whatsappNumber = '5511939303368';
+  const whatsappNumber = '5511978928817';
   const [isPulsing, setIsPulsing] = useState(false);
 
   useEffect(() => {
