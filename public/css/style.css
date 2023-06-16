@@ -679,3 +679,37 @@ label {
   animation: pulse 1s infinite;
 }
 
+/* Cookie Popup */
+
+.cookie-popup {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  background-color: #f1f1f1;
+  color: #333;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 9998;
+}
+
+.cookie-popup p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.cookie-popup .accept-btn {
+  margin-top: 10px;
+  margin-right: 10px ;
+  padding: 6px 12px;
+  background-color: #f46f0a;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.cookie-popup .accept-btn:hover {
+  background-color: #17bb08;
+}
